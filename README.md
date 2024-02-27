@@ -10,6 +10,9 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/_ddongstagram/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW85OXY0a3N2ZTV5cW41cm44OTJva3V5OWQyMG52MDh4aG9rNGRlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OfXKySrn0Ej4s/giphy.gif)
+        
 </a> </div>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=350&section=header&text=Donghyun's%20Github&fontSize=70)
