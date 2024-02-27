@@ -13,6 +13,11 @@
 
 ![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW85OXY0a3N2ZTV5cW41cm44OTJva3V5OWQyMG52MDh4aG9rNGRlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OfXKySrn0Ej4s/giphy.gif)
         
-</a> </div>
+
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=350&section=header&text=Donghyun's%20Github&fontSize=70)
+
+ <img src="https://postfiles.pstatic.net/MjAyNDAyMjdfODUg/MDAxNzA5MDE1NzA4OTY5.b0odN6DfGYfnPeVbxuvysG2KW8igScj3YusKSRSvHVkg.fri6psgAguWgZTONlqwxIlD-Oms8eedAkRfWhpVSiugg.PNG/image.png?type=w580" width="20%" height="20%" title="ㅎㅇ" alt="spongebobheart"></img>
+
+
+</a> </div>
